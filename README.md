@@ -1,5 +1,7 @@
 # DevPulse
 
+**Live Demo:** https://devpulse-seven-livid.vercel.app
+
 A GitHub profile analyzer that visualizes developer activity and generates AI-powered insights.
 
 ## Features
